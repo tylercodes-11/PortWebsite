@@ -290,6 +290,14 @@ input, select, textarea {
 	.project-header {
 		justify-content: center;
 	}
+	.project-header > p {
+		font-style: italic;
+		font-size: 1.1rem;
+			margin-top: 0.5rem;
+			line-height: 2;
+			font-weight: lighter;
+			color: #909498;
+	}
 
 	input, select, textarea {
 		color: #212931;
